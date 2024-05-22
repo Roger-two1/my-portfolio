@@ -6,7 +6,7 @@ import { HiOutlineArrowCircleDown } from "react-icons/hi";
 import { motion } from "framer-motion";
 
 interface AuroraBackgroundProps extends React.HTMLProps<HTMLDivElement> {
-  children: ReactNode;
+  children?: ReactNode;
   showRadialGradient?: boolean;
 }
 

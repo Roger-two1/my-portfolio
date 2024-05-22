@@ -1,8 +1,8 @@
 "use client";
 import React from "react";
 import { BackgroundBeams } from "./ui/BgBeam";
-import { FaLocationArrow } from "react-icons/fa6";
 import MagicButton from "./ShimmerBtn";
+import { FaLocationArrow } from "react-icons/fa";
 
 export default function Contact() {
   return (

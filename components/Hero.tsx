@@ -7,7 +7,6 @@ const Hero = () => {
     <div className="">
       <div>
         <AuroraBackground
-          children=""
           className="text-center"
         />
       </div>
