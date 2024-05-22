@@ -49,7 +49,7 @@ export default function SparklesPreview() {
             <div className="border-0 border-blue-500 flex gap-2 m-2">
             {
                 Stack.map((e) => (
-                  <Button
+                  <Button key={e}
                   borderRadius="1.75rem"
                   className="bg-white bg-black-100/80 text-black text-white border-neutral-200 border-slate-800"
                 >
@@ -69,7 +69,7 @@ export default function SparklesPreview() {
             <div className="border-0 border-blue-500 flex gap-2 m-2">
               {
                 Stack.map((e) => (
-                  <Button
+                  <Button key={e}
                   borderRadius="1.75rem"
                   className="bg-white bg-black-100/60 text-black text-white border-neutral-200 border-slate-800"
                 >

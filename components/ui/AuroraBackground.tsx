@@ -49,7 +49,7 @@ export const AuroraBackground = ({
             )}
           ></div>
         </div>
-        {/* {children} */}
+        {children}
         <p className="font-normal md:text-2xl text-white py-4 px-3 w-fit capitalize">
           ✌ Yo!!
         </p>
