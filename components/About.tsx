@@ -39,7 +39,8 @@ export default function SparklesPreview() {
       </div>
       <div className="text-white-100 flex flex-col items-center md:flex-row justify-center gap-[50px] md:gap-x-[30px] md:px-10 h-[300px] mb-[120px]  lg:mb-[20px]">
         <div className="info md:w-[600px] border-0 w-[95vw] border-white-100   p-2 text-[15px] font-bold leading-relaxed">
-        I am a seasoned full stack developer with a strong background in both frontend and backend development. I specialize in crafting robust and scalable web, mobile, and desktop applications. My comprehensive approach ensures that I deliver high-quality, efficient solutions that enhance user experience and performance. By leveraging my expertise in various technologies, I am able to tackle diverse projects, ensuring they meet the highest standards of functionality and reliability.
+        I am a seasoned full stack developer with a strong background in both frontend and backend development. I specialize in crafting robust and scalable web, mobile, and desktop applications. My comprehensive approach ensures that I deliver high-quality, efficient solutions that enhance user experience and performance. By leveraging my expertise in various technologies, I am able to tackle diverse projects, ensuring they meet the highest standards of functionality and reliability. <br />
+        I am deeply interested in blockchain technology and its potential to revolutionize digital interactions. I stay updated with the latest industry trends and continuously seek to expand my knowledge in both Web2 and blockchain domains.
         </div>
         <div className="border-0 border-white-200 w-screen rounded-none md:max-w-xl py-3  bg-[#18181B]">
           <div className="px-3 font-semibold underline">

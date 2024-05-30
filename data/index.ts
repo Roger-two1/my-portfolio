@@ -12,4 +12,4 @@ export const navItems = [
 //     }
 // ]
 
-export const Stack = ["HTML", "CSS", "JavaScript", "TypeScript", "Node.js", "SQL", "React", "Next.js", "Mongo DB", "Express", "Prisma"]
+export const Stack = ["HTML", "CSS", "JavaScript", "TypeScript", "Node.js", "SQL", "React", "Next.js", "Mongo DB", "Express", "Prisma", "Rust"]
