@@ -59,8 +59,6 @@ export const WobbleCard = ({
         >
           <Noise />
           {children}
-          {/* <p>Hi there</p> */}
-          
         </motion.div>
       </div>
     </motion.section>
